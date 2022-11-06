@@ -1,0 +1,188 @@
+body { margin: 0 }
+.desktop1-desktop1 {
+    width: 100%;
+    height: 926px;
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(23, 28, 25, 1);
+  }
+  .desktop1-text {
+    top: 30px;
+    left: 92px;
+    color: rgba(30, 215, 96, 1);
+    width: 378px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Gotham;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop1-spotifylogo1 {
+    top: 35px;
+    left: 54px;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 146.5px;
+  }
+  .desktop1-frame1 {
+    top: 758px;
+    left: 629px;
+    width: 181px;
+    height: 50px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 50px;
+    background-color: rgba(3, 161, 59, 1);
+  }
+  .desktop1-text02 {
+    top: 10px;
+    left: -28px;
+    color: rgba(255, 255, 255, 1);
+    width: 238px;
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Gotham;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop1-frame2 {
+    top: 28px;
+    left: 1217px;
+    width: 192px;
+    height: 39px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .desktop1-text04 {
+    left: 47px;
+    color: rgba(255, 255, 255, 1);
+    width: 98px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Gotham;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop1-folklore1 {
+    top: 250px;
+    left: 498px;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .desktop1-screen-shot20221105at2361 {
+    top: 250px;
+    left: 63px;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    border-color: transparent;
+
+  }
+  .desktop1-abbeyroad1 {
+    top: 280px;
+    left: 281px;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    border-color: transparent;
+    box-shadow: 1px 10px 40px 10px white;
+  }
+  .desktop1-text06 {
+    top: 262px;
+    left: 896px;
+    color: rgba(255, 255, 255, 1);
+    width: 466px;
+    height: auto;
+    position: absolute;
+    font-size: 60px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Gotham;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop1-text08 {
+    top: 406px;
+    left: 896px;
+    color: rgba(30, 215, 96, 1);
+    width: 466px;
+    height: auto;
+    position: absolute;
+    font-size: 60px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Gotham;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop1-text10 {
+    top: 684px;
+    left: 448px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Gotham;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+
+  .pointer {
+    cursor: pointer;
+  }
